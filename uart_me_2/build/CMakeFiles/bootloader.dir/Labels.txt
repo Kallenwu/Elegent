@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/CMakeFiles/bootloader
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/CMakeFiles/bootloader.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/CMakeFiles/bootloader-complete.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/software/esp2/Espressif/frameworks/esp-idf-v5.2.1/examples/uart_me_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
